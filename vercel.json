@@ -1,5 +1,8 @@
 {
+  "cleanUrls": true,
   "redirects": [
-    { "source": "/index.html", "destination": "/", "permanent": true }
+    { "source": "/index.html", "destination": "/", "permanent": true },
+    { "source": "/about.html", "destination": "/about", "permanent": true },
+    { "source": "/editor.html", "destination": "/editor", "permanent": true }
   ]
 }
